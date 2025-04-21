@@ -1,0 +1,123 @@
+tran_TransformerTime_hf_sample_L1_wt_1e-4_focal0.00
+===================================================
+
+Run 1:
+  Epoch  0: Train=0.6763, Val=0.6048, Test=0.5631, Dur=0.77s
+  Epoch  1: Train=0.6421, Val=0.5747, Test=0.4979, Dur=0.72s
+  Epoch  2: Train=0.6033, Val=0.5687, Test=0.4635, Dur=0.72s
+  Epoch  3: Train=0.5823, Val=0.5524, Test=0.4285, Dur=0.70s
+  Epoch  4: Train=0.5769, Val=0.5527, Test=0.4269, Dur=0.69s
+  Epoch  5: Train=0.5690, Val=0.5535, Test=0.4336, Dur=0.73s
+  Epoch  6: Train=0.5531, Val=0.5712, Test=0.4483, Dur=0.72s
+  Epoch  7: Train=0.5873, Val=0.5586, Test=0.4462, Dur=0.70s
+  Epoch  8: Train=0.5551, Val=0.5697, Test=0.4459, Dur=0.69s
+  Epoch  9: Train=0.5470, Val=0.5547, Test=0.4312, Dur=0.70s
+  Epoch 10: Train=0.5514, Val=0.5615, Test=0.4306, Dur=0.71s
+  Epoch 11: Train=0.5396, Val=0.5567, Test=0.4285, Dur=0.72s
+  Epoch 12: Train=0.5303, Val=0.5588, Test=0.4378, Dur=0.69s
+  Epoch 13: Train=0.5157, Val=0.5563, Test=0.4285, Dur=0.69s
+  Epoch 14: Train=0.5177, Val=0.5611, Test=0.4152, Dur=0.74s
+  Epoch 15: Train=0.5067, Val=0.5668, Test=0.4098, Dur=0.70s
+  Epoch 16: Train=0.5098, Val=0.5855, Test=0.4554, Dur=0.69s
+  Epoch 17: Train=0.5205, Val=0.5781, Test=0.4296, Dur=0.69s
+  Epoch 18: Train=0.5026, Val=0.5638, Test=0.4069, Dur=0.70s
+  Epoch 19: Train=0.4977, Val=0.5698, Test=0.4112, Dur=0.70s
+
+Run 2:
+  Epoch  0: Train=0.6266, Val=0.5832, Test=0.5011, Dur=0.69s
+  Epoch  1: Train=0.6281, Val=0.5667, Test=0.4516, Dur=0.68s
+  Epoch  2: Train=0.5918, Val=0.5664, Test=0.4381, Dur=0.67s
+  Epoch  3: Train=0.5817, Val=0.5609, Test=0.4351, Dur=0.70s
+  Epoch  4: Train=0.5897, Val=0.5622, Test=0.4442, Dur=0.74s
+  Epoch  5: Train=0.5906, Val=0.5625, Test=0.4419, Dur=0.69s
+  Epoch  6: Train=0.5661, Val=0.5548, Test=0.4297, Dur=0.70s
+  Epoch  7: Train=0.5791, Val=0.5618, Test=0.4348, Dur=0.69s
+  Epoch  8: Train=0.5570, Val=0.5526, Test=0.4342, Dur=0.70s
+  Epoch  9: Train=0.5452, Val=0.5529, Test=0.4400, Dur=0.68s
+  Epoch 10: Train=0.5351, Val=0.5543, Test=0.4350, Dur=0.69s
+  Epoch 11: Train=0.5379, Val=0.5546, Test=0.4317, Dur=0.68s
+  Epoch 12: Train=0.5332, Val=0.5521, Test=0.4276, Dur=0.67s
+  Epoch 13: Train=0.5337, Val=0.5635, Test=0.4441, Dur=0.67s
+  Epoch 14: Train=0.5246, Val=0.5541, Test=0.4310, Dur=0.70s
+  Epoch 15: Train=0.5324, Val=0.5557, Test=0.4249, Dur=0.69s
+  Epoch 16: Train=0.5232, Val=0.5655, Test=0.4312, Dur=0.71s
+  Epoch 17: Train=0.5116, Val=0.5588, Test=0.4249, Dur=0.69s
+  Epoch 18: Train=0.5099, Val=0.5614, Test=0.4209, Dur=0.73s
+  Epoch 19: Train=0.4992, Val=0.5669, Test=0.4362, Dur=0.69s
+
+Run 3:
+  Epoch  0: Train=0.6682, Val=0.5920, Test=0.5590, Dur=0.70s
+  Epoch  1: Train=0.6224, Val=0.5966, Test=0.5299, Dur=0.69s
+  Epoch  2: Train=0.5748, Val=0.5567, Test=0.4648, Dur=0.69s
+  Epoch  3: Train=0.5825, Val=0.5557, Test=0.4420, Dur=0.70s
+  Epoch  4: Train=0.5516, Val=0.5523, Test=0.4330, Dur=0.68s
+  Epoch  5: Train=0.5783, Val=0.5579, Test=0.4425, Dur=0.68s
+  Epoch  6: Train=0.5472, Val=0.5621, Test=0.4554, Dur=0.69s
+  Epoch  7: Train=0.5424, Val=0.5592, Test=0.4494, Dur=0.70s
+  Epoch  8: Train=0.5471, Val=0.5536, Test=0.4424, Dur=0.69s
+  Epoch  9: Train=0.5527, Val=0.5727, Test=0.4602, Dur=0.69s
+  Epoch 10: Train=0.5285, Val=0.5561, Test=0.4451, Dur=0.69s
+  Epoch 11: Train=0.5271, Val=0.5618, Test=0.4438, Dur=0.69s
+  Epoch 12: Train=0.5315, Val=0.5592, Test=0.4402, Dur=0.75s
+  Epoch 13: Train=0.5230, Val=0.5664, Test=0.4409, Dur=0.69s
+  Epoch 14: Train=0.5319, Val=0.6020, Test=0.4742, Dur=0.68s
+  Epoch 15: Train=0.5061, Val=0.5768, Test=0.4415, Dur=0.69s
+  Epoch 16: Train=0.5033, Val=0.5919, Test=0.4539, Dur=0.70s
+  Epoch 17: Train=0.5040, Val=0.5751, Test=0.4273, Dur=0.69s
+  Epoch 18: Train=0.4765, Val=0.5847, Test=0.4237, Dur=0.69s
+  Epoch 19: Train=0.4610, Val=0.6008, Test=0.4224, Dur=0.69s
+
+Run 4:
+  Epoch  0: Train=0.6692, Val=0.5990, Test=0.5629, Dur=0.70s
+  Epoch  1: Train=0.6359, Val=0.5701, Test=0.4864, Dur=0.69s
+  Epoch  2: Train=0.5888, Val=0.5540, Test=0.4516, Dur=0.70s
+  Epoch  3: Train=0.5878, Val=0.5588, Test=0.4449, Dur=0.68s
+  Epoch  4: Train=0.5790, Val=0.5570, Test=0.4476, Dur=0.70s
+  Epoch  5: Train=0.5699, Val=0.5574, Test=0.4441, Dur=0.70s
+  Epoch  6: Train=0.5640, Val=0.5586, Test=0.4509, Dur=0.72s
+  Epoch  7: Train=0.5569, Val=0.5630, Test=0.4503, Dur=0.67s
+  Epoch  8: Train=0.5484, Val=0.5561, Test=0.4366, Dur=0.70s
+  Epoch  9: Train=0.5527, Val=0.5837, Test=0.4673, Dur=0.69s
+  Epoch 10: Train=0.5438, Val=0.5579, Test=0.4504, Dur=0.68s
+  Epoch 11: Train=0.5335, Val=0.5849, Test=0.4526, Dur=0.67s
+  Epoch 12: Train=0.5454, Val=0.5647, Test=0.4195, Dur=0.68s
+  Epoch 13: Train=0.5378, Val=0.5654, Test=0.4328, Dur=0.69s
+  Epoch 14: Train=0.5151, Val=0.5960, Test=0.4699, Dur=0.70s
+  Epoch 15: Train=0.5249, Val=0.5693, Test=0.4286, Dur=0.70s
+  Epoch 16: Train=0.5018, Val=0.5935, Test=0.4417, Dur=0.69s
+  Epoch 17: Train=0.4982, Val=0.5830, Test=0.4281, Dur=0.69s
+  Epoch 18: Train=0.5036, Val=0.5905, Test=0.4136, Dur=0.68s
+  Epoch 19: Train=0.4708, Val=0.6023, Test=0.4374, Dur=0.71s
+
+Run 5:
+  Epoch  0: Train=0.6801, Val=0.5892, Test=0.5531, Dur=0.70s
+  Epoch  1: Train=0.6206, Val=0.5685, Test=0.4969, Dur=0.70s
+  Epoch  2: Train=0.5886, Val=0.5572, Test=0.4539, Dur=0.69s
+  Epoch  3: Train=0.6018, Val=0.5475, Test=0.4303, Dur=0.68s
+  Epoch  4: Train=0.5587, Val=0.5492, Test=0.4390, Dur=0.68s
+  Epoch  5: Train=0.5593, Val=0.5492, Test=0.4345, Dur=0.71s
+  Epoch  6: Train=0.5650, Val=0.5645, Test=0.4426, Dur=0.71s
+  Epoch  7: Train=0.5397, Val=0.5510, Test=0.4349, Dur=0.72s
+  Epoch  8: Train=0.5565, Val=0.5536, Test=0.4334, Dur=0.71s
+  Epoch  9: Train=0.5556, Val=0.5550, Test=0.4294, Dur=0.69s
+  Epoch 10: Train=0.5458, Val=0.5557, Test=0.4358, Dur=0.70s
+  Epoch 11: Train=0.5433, Val=0.5589, Test=0.4359, Dur=0.71s
+  Epoch 12: Train=0.5292, Val=0.5586, Test=0.4281, Dur=0.70s
+  Epoch 13: Train=0.5366, Val=0.5733, Test=0.4392, Dur=0.77s
+  Epoch 14: Train=0.5119, Val=0.5643, Test=0.4249, Dur=0.69s
+  Epoch 15: Train=0.5205, Val=0.5800, Test=0.4320, Dur=0.69s
+  Epoch 16: Train=0.5029, Val=0.5698, Test=0.4173, Dur=0.69s
+  Epoch 17: Train=0.4938, Val=0.5684, Test=0.4259, Dur=0.67s
+  Epoch 18: Train=0.4996, Val=0.6093, Test=0.4593, Dur=0.68s
+  Epoch 19: Train=0.4814, Val=0.5954, Test=0.4241, Dur=0.67s
+
+Final metrics per run (acc, prec, rec, f1, auc):
+ Run 1: 0.8039, 0.8452, 0.9103, 0.8765, 0.6843
+ Run 2: 0.7255, 0.8205, 0.8205, 0.8205, 0.6186
+ Run 3: 0.7353, 0.8312, 0.8205, 0.8258, 0.6394
+ Run 4: 0.8039, 0.8537, 0.8974, 0.8750, 0.6987
+ Run 5: 0.7647, 0.8293, 0.8718, 0.8500, 0.6442
+
+Summary:
+ Mean: 0.7667, 0.8360, 0.8641, 0.8496, 0.6571
+  Std: 0.0330, 0.0119, 0.0377, 0.0236, 0.0298
